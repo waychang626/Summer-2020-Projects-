@@ -9,3 +9,4 @@ I will focus on two main topics, COVID19 and Police Brutality
 
 ## Timeline 
 Will start uploading data analysis results by Monday, 6/29/20
+Preliminary results of COVID project posted 
